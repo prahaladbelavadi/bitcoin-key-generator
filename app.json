@@ -1,0 +1,12 @@
+{
+  "name": "bitcoinKeyCreate",
+  "displayName": "bitcoinKeyCreate",
+  "expo": {
+    "name": "bitcoinKeyCreate",
+    "slug": "bitcoinKeyCreate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
